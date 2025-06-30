@@ -1,4 +1,4 @@
-# Cadastro-de-Usuarios, Este e uma projeto Básico de uma aplicação Full stack
+# Cadastro-de-Usuarios, Este e um projeto Básico de uma aplicação Full stack
 
 #Funcionalidades 
 Cadastro de Usuários com validação 
