@@ -8,7 +8,7 @@ exibição de modal com detalhes do usuário
 permitindo o fechamento do modal, assim que o usuário for removido.
 
 #Tecnologias usadas
-HTML, CSS JAVASCRIPT, NODEJS, e Integração com banco de Dados MYSQL.
+HTML, CSS JAVASCRIPT, NODEJS, e Integração com banco de Dados MYSQL3.
 
 #Estrutura do Projeto 
 /PROJETO-CADASTRO-FULSTACK
