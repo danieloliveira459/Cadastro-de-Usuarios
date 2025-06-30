@@ -1,0 +1,79 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+}
+header footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    
+    
+}
+header h1 {
+    text-align: center;
+}
+main {
+    padding: 20px;
+    max-inline-size: 600px;
+    margin: auto;
+
+}
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-block-end: 20px;
+}
+input, button {
+    padding: 8px;
+    font-size: 16px;
+}
+button {
+    background-color: #11ccd3;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #e9ecef;
+}
+ul li {
+    background-color: #e9ecef;
+    margin-block-end: 8px;
+    padding: 10px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+ul li button {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+    border-radius: 4px;
+
+}
+dialog {
+    padding: 20px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 8 px rgba(0, 0, 0, 0.2);
+    max-inline-size: 400px;
+}
+dialog::backdrop {
+    background: rgba(0, 0, 0, 0.5);
+}
+
+footer {
+    text-align: center;
+}
+
+
+
+
