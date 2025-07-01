@@ -15,6 +15,7 @@ HTML, CSS JAVASCRIPT, NODEJS, e Integração com banco de Dados MYSQL3.
   # Public
 * index.html
 * script.js
+  
   #Server
 * database.js
 * server.js
