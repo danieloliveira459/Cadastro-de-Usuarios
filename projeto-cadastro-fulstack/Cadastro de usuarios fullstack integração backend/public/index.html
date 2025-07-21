@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cadastro de Usuários</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   <header>
+      <h1>Cadastro de Usuário</h1>
+   </header>
+   <main>
+     <form id="form">
+       <input type="text" name="name" placeholder="Nome:" required>
+       <input type="number" name="age" placeholder="Idade:" required>
+       <input type="email" name="email" placeholder="Email:" required>
+       <input type="date" name="date" placeholder="Data de nascimento:" required>
+    <button type="submit">Cadastrar</button>
+  </form>
+  <section>
+    <p id="menssageText"></p>
+    <ul id="userlist"></ul>
+  </section>
+  </main>
+        
+       <dialog id="modalDetalhes">
+        <h2>Detalhes do usuário</h2>
+        <p id="modalContent"></p>
+        <button id="fecharModal">Fechar</button>
+       </dialog>
+  
+  <footer>
+    <p>&copy; Projeto de Cadastro de Usuários</p>
+    <p>Desenvolvido por Carlos Daniel</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
