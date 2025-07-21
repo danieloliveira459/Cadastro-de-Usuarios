@@ -2,13 +2,13 @@
 
 #Funcionalidades 
 Cadastro de Usuários com validação 
-armazenamento no Banco de Dados 
+armazenamento no Local storage  
 remoção de Usuários
 exibição de modal com detalhes do usuário 
 permitindo o fechamento do modal, assim que o usuário for removido.
 
 #Tecnologias usadas
-HTML, CSS JAVASCRIPT, NODEJS, e Integração com banco de Dados MYSQL3.
+HTML, CSS JAVASCRIPT
 
 #Estrutura do Projeto 
 /PROJETO-CADASTRO-FULSTACK
