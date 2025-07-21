@@ -3,8 +3,8 @@
 #Funcionalidades 
 Cadastro de Usuários com validação 
 armazenamento no banco de Dados MySQL  
-exibição do Botão Detalhes,   com detalhes do usuário
-exibição do Botão Excluir, caso o usuaário queira excluir o usuario.
+exibição do Botão Detalhes, com detalhes do usuário
+exibição do Botão Excluir, caso o usuário queira excluir o usuário.
 
 
 #Tecnologias usadas
